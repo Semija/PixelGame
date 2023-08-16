@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PixelLibrary", "PixelLibrary\PixelLibrary.vcxproj", "{BD78B4BA-2272-4152-B0B4-5483532DC17B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PixelGame", "PixelGame\PixelGame.vcxproj", "{2227EFE5-0268-4241-88AF-13A423EBA1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Debug|x64.ActiveCfg = Debug|x64
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Debug|x64.Build.0 = Debug|x64
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Debug|x86.Build.0 = Debug|Win32
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Release|x64.ActiveCfg = Release|x64
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Release|x64.Build.0 = Release|x64
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Release|x86.ActiveCfg = Release|Win32
+		{BD78B4BA-2272-4152-B0B4-5483532DC17B}.Release|x86.Build.0 = Release|Win32
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Debug|x64.ActiveCfg = Debug|x64
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Debug|x64.Build.0 = Debug|x64
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Debug|x86.Build.0 = Debug|Win32
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Release|x64.ActiveCfg = Release|x64
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Release|x64.Build.0 = Release|x64
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Release|x86.ActiveCfg = Release|Win32
+		{2227EFE5-0268-4241-88AF-13A423EBA1C5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE961AEA-D861-4D92-B59A-3B55E797C0F4}
+	EndGlobalSection
+EndGlobal
